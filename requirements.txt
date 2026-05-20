@@ -7,3 +7,5 @@ chromadb
 sentence-transformers
 groq
 certifi
+torch
+protobuf==4.25.3
